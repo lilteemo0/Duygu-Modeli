@@ -10,8 +10,12 @@ Modelin başarısı, Karışıklık Matrisi ve Sınıflandırma Raporları ile d
 Bu projenin temel çıktısı, başarılı bir şekilde eğitilmiş bir Evrişimli Sinir Ağı (CNN) modelidir. Elde edilen sonuçlar, modelin genelleme yeteneğini ve duygular arasındaki ayrım gücünü (discriminative power) anlamamızı sağlamıştır. 
 
 # Sonuç ve Gelecek Çalışmalar
+Bu modeli oluştururkenki temel hedefim insanların yüz mimk ve ifadelerine göre duygu durumlarını ölçmekti. Bu elde edilen veriler bir ürün pazarlamada insanlara olan yaklaşımımızı belirlemekte, mağazadaki insanların ürünlere olan tepkilerine bağlı olarak başarı değerlendirmesi yapmada, uzaktan eğitim platformlarında öğrencinin dikkatinin dağılıp dağılmadığını ölçmekte ve ders sırasında neler hissettiğine, insanların ruh halini anlamada kullanılabilir. Bu veriler tek başına başarı oranı düşük olacağından insanların ses, beden dili, vücut sıcaklığı ve nabız sayısı gibi etkenlerle aynı zamanda ele alındığında daha güvenilir bir sonuç verecek, bu sonuçlar kullanılarak da adli süreçlerde veya tıbbi tanılarda işleri kolaylaştıracaktır.
+
+Bir diğer mnemli alan da yapay zeka destekli robotların insan ilişkilerinde olan başarısını arttırmaktır. Robot bu verileri birleştirerek insanların ruh hallerini anlayacak ve sphbet ve davranışlarını bu çerçeve etrafında şekillendirerek daha sağlıklı ve etkili bir iletişim kuracaktır. 
 
 
 # Linkler
-
+https://www.kaggle.com/code/zehr4a/duygu-modeli
+https://www.kaggle.com/code/zehr4a/model-test
 
